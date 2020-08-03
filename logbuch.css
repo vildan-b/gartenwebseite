@@ -1,0 +1,9 @@
+
+.box9 {  border: 5px solid #e0e052 ;}
+
+div.box9 {	background-color: 	 #ffffe6;		padding: 1em 3em;	}
+
+div.box9 > h3{		font-size:13pt;		color:#009900;		font-family:Helvetica;	}
+
+p {		text-family: Verdana;	color: #006400;		text-align: justify;
+		font-size: 10pt;		line-height: 28pt;	font-weight: bold;		}

@@ -1,0 +1,25 @@
+
+
+.box9 {		background-image:	url(image/profil_01.png);	}
+			
+
+.box10 {	grid-column:6/7;	grid-row: 3/4; }
+table {		margin: 6em 4em;
+			height: 100px;
+			width:100px;
+			background-color: 	#f2ffcc;
+			padding: 1em 3em;	
+			}
+
+th , td {		border: 2px solid yellow;		text-align: center;
+				font-family: Verdana;			font-size: 15pt;	}
+
+img.groese { 	width:50pt;		height: 50pt;	padding: 1em;	border:2;	}
+
+
+.efekt{			color:green;		}
+.efekt:hover {	color:red;		background:blue;	}
+
+p {		text-family: Verdana;	color: #006400;		text-align: justify;
+		font-size: 10pt;		line-height: 28pt;	font-weight: bold;	}
+
